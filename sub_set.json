@@ -1,0 +1,37 @@
+{
+
+  // Gets rid of reloading old projects
+  // "hot_exit": false,
+  "remember_open_files": false,
+
+  // Font  stuff
+  "font_face": "Menlo",
+  "font_size": 12,
+
+  // Displays file encoding in the status bar
+  "show_encoding": true,
+
+  // Displays line endings in the status bar
+  "show_line_endings": false,
+
+  // Tab space  is two!
+  "tab_size": 2,
+
+  // Inserts spaces when tab is pressed
+  "translate_tabs_to_spaces": true,
+
+  // Removes trailing white space on save
+  "trim_trailing_white_space_on_save": true,
+
+  // Highlights any line with a caret
+  "highlight_line": true,
+
+  // Makes tabs with modified files more visible
+  "highlight_modified_tabs": true,
+
+  // Makes shift+tab always unindent, instead of inserting tabs
+  "shift_tab_unindent": true,
+
+  // Yep
+  "draw_white_space": "all"
+}
