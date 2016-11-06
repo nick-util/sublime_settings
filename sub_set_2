@@ -1,21 +1,18 @@
 {
 	"draw_white_space": "all",
-	"font_size": 8,
+	"font_size": 9,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		"Vintage"
-	],
+	"hot_exit": true,
+	"indent_to_bracket": true,
+	"preview_on_click": false,
 	"remember_open_files": false,
 	"shift_tab_unindent": true,
 	"show_encoding": true,
 	"show_line_endings": false,
+	"spell_check": true,
 	"tab_size": 2,
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
-	"hot_exit": false,
-	"remember_open_files": false,
-	"indent_to_bracket": true,
-	"spell_check": true
+	"detect_indentation": false
 }
